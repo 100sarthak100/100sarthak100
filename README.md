@@ -1,11 +1,9 @@
 ### Hi there, I'm Sarthak Naithani👋
 <p><em>I'm a 4th year student of Manipal Institute of Technology</p></em>
 
-[![Website](https://img.shields.io/website?label=Developer's Blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mydevblog.me/)
-
 ### Connect with me:
 
-[<img align="left" alt="DevBlog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/sarthak-naithani-a610b6126/]
+[<img align="left" alt="DevBlog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sarthak-naithani-a610b6126/)
 
 <br />
 
