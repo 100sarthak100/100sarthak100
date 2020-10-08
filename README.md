@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarthak Naithani</h1>
 <h3 align="center">I'm currently a 4th year student of Manipal Institute of Technology.</h3>
 
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
