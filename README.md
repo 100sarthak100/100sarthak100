@@ -5,6 +5,12 @@
 
 [<img align="left" alt="DevBlog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sarthak-naithani-a610b6126/)
 
+<br />
+<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  ![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=100sarthak100&show_icons=true&theme=dark)
+</details>
 
 
 <!--
