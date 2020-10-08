@@ -5,9 +5,7 @@
 
 [<img align="left" alt="DevBlog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sarthak-naithani-a610b6126/)
 
-<br />
 
-![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=100sarthak100&show_icons=true&theme=radical)
 
 <!--
 **100sarthak100/100sarthak100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
