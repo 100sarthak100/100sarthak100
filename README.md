@@ -27,10 +27,10 @@
 <br />
 
 ### Github Stats:
-[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=100sarthak100)](https://github.com/anuraghazra/github-readme-stats)
+[![Sarthak's github stats](https://github-readme-stats-psi-three.vercel.app/api?username=100sarthak100)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100sarthak100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-three.vercel.app/api/top-langs/?username=100sarthak100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
