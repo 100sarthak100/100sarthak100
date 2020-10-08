@@ -39,7 +39,9 @@
 <br />
 
 #### My Website: 
-Developer's Blog [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mydevblog.me/)
+![Website](https://img.shields.io/website?down_color=Red&down_message=Website%20id%20Down&label=Developer%27s%20Blog&up_color=Green&up_message=Up%20and%20Running&url=https%3A%2F%2Fmydevblog.me%2F)
+
+
 
 
 <!--
