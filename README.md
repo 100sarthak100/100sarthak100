@@ -35,6 +35,10 @@
 
 <br />
 
+#### My Website: 
+Developer's Blog [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mydevblog.me/)
+
+
 <!--
 **100sarthak100/100sarthak100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
