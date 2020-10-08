@@ -1,11 +1,6 @@
 ### Hi there, I'm Sarthak Naithani👋
 <p><em>I'm a 4th year student of Manipal Institute of Technology</p></em>
 
-### Connect with me:
-
-[<img align="left" alt="DevBlog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sarthak-naithani-a610b6126/)
-
-<br />
 <br />
 
 ### Languages and Tools:
@@ -31,7 +26,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
+[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=100sarthak100)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me:
+
+[<img align="left" alt="DevBlog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sarthak-naithani-a610b6126/)
+
+<br />
 
 <!--
 **100sarthak100/100sarthak100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
