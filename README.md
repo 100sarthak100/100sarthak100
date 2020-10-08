@@ -29,6 +29,9 @@
 ### Github Stats:
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=100sarthak100)](https://github.com/anuraghazra/github-readme-stats)
 
+### Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100sarthak100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="DevBlog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sarthak-naithani-a610b6126/)
