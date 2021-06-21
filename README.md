@@ -42,7 +42,7 @@
 
 <br />
 
-#### My Website: mydevblog.me
+#### My Website: mernstackcrud.netlify.app/
 ![Website](https://img.shields.io/website?down_color=Red&down_message=Website%20id%20Down&label=Developer%27s%20Blog&up_color=Green&up_message=Up%20and%20Running&url=https%3A%2F%2Fmydevblog.me%2F)
 
 
