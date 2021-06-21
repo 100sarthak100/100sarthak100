@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Naithani</h1>
-<h3 align="center">I'm currently a Final year student of Manipal Institute of Technology.</h3>
+<h3 align="center">I'm a Full Stack Developer</h3>
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
