@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Naithani</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -28,21 +28,21 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+<br /> -->
 
-### Github Stats:
+<!-- ### Github Stats:
 [![Sarthak's github stats](https://github-readme-stats-psi-three.vercel.app/api?username=100sarthak100)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages:
 [![Top Langs](https://github-readme-stats-psi-three.vercel.app/api/top-langs/?username=100sarthak100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 ### Connect with me:
 
 [<img align="left" alt="DevBlog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sarthak-naithani-a610b6126/)
 
 <br />
 
-#### My Website: mernstackcrud.netlify.app/
+<!-- #### My Website: mernstackcrud.netlify.app/
 <!-- ![Website](https://img.shields.io/website?down_color=Red&down_message=Website%20id%20Down&label=Developer%27s%20Blog&up_color=Green&up_message=Up%20and%20Running&url=https%3A%2F%2Fmydevblog.me%2F) -->
 
 
